@@ -1,0 +1,160 @@
+{
+  "title": "科技爱好者周刊：第 97 期",
+  "date": "2020年3月 6日",
+  "cover": "https://cdn.beekka.com/blogimg/asset/202001/bg2020011901.jpg",
+  "刊首语": "<p>上海现在有很多付费自习室，提供一个安静的学习环境，有的收费要超过20元/小时。生意应该很不错，否则不会开这么多家。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030407.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030409.jpg\" alt=\"\" title=\"\"></p><p>网上有<a href=\"https://www.bilibili.com/video/av80434643\">一个视频</a>，采访那些顾客，为什么来自习？</p><p>答案都是一样的：为了考试。各种各种的考试：研究生入学、公务员、会计上岗证、司法考试、CFA、注册会计师......</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030411.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030410.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030412.jpg\" alt=\"\" title=\"\"></p><p>受访者说，来到收费自习室，可以保证全心备考，而且看到别人那么努力，也能激励自己。</p><p>我不怀疑他们的学习精神，也相信自习室肯定有一定的效果。但是更赞同视频下面的一条留言。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030413.jpg\" alt=\"\" title=\"\"></p><blockquote>\n  <p>\"我真觉得，这些人，其实挺迷茫的......听上去感觉好像一个个都挺有上进心的，但是其实，没几个人真的知道自己要干嘛......\"</p>\n</blockquote><p>我也是这个感觉，那么多年轻人参加各种各样的考试，忙忙碌碌，只是为了掩盖人生找不到目标。</p><p>如果你真的知道自己想要什么，你就不会花钱找一个地方，只为了坐下来背书。许多人对自己应该做什么，毫无想法，迷茫困惑，不知道怎么才能改变现状，但是又觉得必须做一些事，所以才选择参加考试，然后安慰自己，我没有浪费时间。</p><p>这样是不行的， <strong>考试根本不是出路。如果你不知道人生怎么办，就算考过了，你依然不知道。</strong> 很多证书对于求职根本没用，在企业的眼里，资历是靠经历和项目证明的，不是靠证书。退一步说，如果某张证书确实有用，也会因为成千上万的人去考，而很快贬值。</p><p>我的建议就是，不要去参加考试，而要努力寻找那些你有兴趣去做、并且能够为此获得收入的事情。</p>",
+  "免费前端视频": "<p>随着企业陆续复工，招聘市场逐渐恢复正常。但是，这一段时间的招聘岗位还是比以前要少很多，往年三四月的面试旺季已经往后延迟。</p><p>如果你的前端开发基础还不够扎实，现在正好可以利用起来，相当于有一个特别长的准备期，来准备一下面试的内容。</p><p>应对面试需要两大要点，一是技术栈的熟练掌握，另一个就是了解面试的相关技巧。吃透了这两点，等疫情完全结束，就有机会拿到好的 offer！</p><p>本期周刊为大家提供一批免费的视频资料，内容分别是大牛的面试技巧分享和 Vue 这个前端常用框架的讲解。以下视频资料均由 <strong>开课吧</strong> 独家提供。</p><blockquote>\n  <p>视频一：<strong>《一小时带走前端大牛复盘的求职策略》</strong> ：大厂面试章法（简历、目标公司、如何描述做过的项目），面试技巧的分享，面试题的详解等。  </p>\n\n<p>视频二：  <strong>《Vue3 响应式原理剖析》</strong>：Vue3 响应式初体验、Vue2 &amp; Vue3 响应式原理对比、Vue3 响应式实现、源码分析等。</p>\n\n<p>视频三： <strong>《Vue 源码剖析之整体流程》</strong>：Vue 源码调试环境搭建、入口文件剖析、Vue 初始化流程分析、Vue 源码学习整体流程总结等等。</p>\n</blockquote><p>感兴趣的读者，长按下方二维码两次，现在就能<strong>免费领取</strong>这三个视频教程。温馨提示：资料数量有限，<strong>仅提供259份。</strong></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030504.jpg\" alt=\"\" title=\"\"></p><p>扫二维码，成功添加小助理，即可领取面试礼包。</p>",
+  "资讯": "<p>1、<a href=\"https://o.canada.com/news/spain-builds-submarine-70-tons-too-heavy\">算错小数点</a></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020022409.jpg\" alt=\"\" title=\"\"></p><p>西班牙造船厂由于算错了一个小数点，导致制造的潜艇超重了70吨（设计重量2200吨）。西班牙海军非常担心，如果它出海将无法浮出水面。</p><p>目前，补救方案有两种，一种是将潜艇的船体长度延长大约5至6米，以增加浮力。另一种是不得不减少潜艇的重量70吨，但是这很可能影响战斗系统或推进系统等关键功能。</p><p>2、<a href=\"https://www.sciencealert.com/scientists-don-t-think-this-olm-bothered-to-move-much-in-7-years\">洞螈</a></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020022406.jpg\" alt=\"\" title=\"\"></p><p>过去八年，欧洲科学家在波斯尼亚和黑塞哥维那东部的山洞里面，发现了大量的洞螈，大概有几十条。这种动物长约20厘米～30厘米，长得像迷你的龙，是两栖类动物，只分布在欧洲中部山区漆黑无光的山洞内部。</p><p>由于长期不见光，它的眼睛已经退化了，被皮肤覆盖了，是一种没有眼睛的动物，没有视觉，只靠敏锐的嗅觉、水下听觉、以及对周围运动的感知来弥补视觉的丧失。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020022407.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020022408.jpg\" alt=\"\" title=\"\"></p><p>科学家发现，这种动物的活动范围非常有限，几年时间中，只移动了不到10米。由于长期不动，它们的代谢极低，寿命长达一个世纪，每12年才繁殖一次。</p><p>3、<a href=\"https://tech.sina.cn/2020-02-17/detail-iimxyqvz3474565.d.html\">带有脸部信息的口罩</a></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020022007.jpg\" alt=\"\" title=\"\"></p><p>疫情期间，口罩是必备物品。随之而来的一个问题是，苹果手机的 Face ID 无法识别出戴口罩的人脸，必须脱下口罩，手机才能开机。</p><p>国外的一个创业者，因此发明了一款带有面部信息的口罩。他的思路是，先提取用户被口罩遮挡部分的面部信息，然后印制到口罩外侧，戴上后即拼凑成完整的脸部。据他说，这种办法可以兼容Face ID，但没有大规模测试，目前售价高达40美元一个。</p><p>4、<a href=\"https://www.reuters.com/article/us-singapore-airshow-airbus-design/airbus-unveils-blended-wing-body-plane-design-after-secret-flight-tests-idUSKBN20509H\">连体翼飞机</a></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020021117.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020021404.jpg\" alt=\"\" title=\"\"></p><p>空中客车公司在新加坡航空展上，放出了长达二米的连体翼飞机模型，表示他们正在研发这种机身和机翼一体化的飞机，并且已经于去年6月在法国试飞了。</p><p>这种飞机机翼与机身融合，可以减少空气阻力，有利于降低燃油消耗并减少碳排放。空中客车公司表示，与目前的客机相比，这种飞机可能将燃油消耗降低多达20％，并为不同的推进系统和机舱设计提供了可能性。不过，这种飞机的设计和制造都较为复杂。</p><p>5、<a href=\"https://www.outsideonline.com/2407533/unicycle-travel-gear\">独轮车环游地球</a></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020021111.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020021114.jpg\" alt=\"\" title=\"\"></p><p>英国青年埃德·普拉特（Ed Pratt）最近成为第一个骑独轮车环游世界的人。2015年3月，当时19岁的他从英国出发，经过3年时间，路经了欧洲、中东、中亚、中国、东南亚、澳大利亚、新西兰和美国之后，他终于回到了起点。</p><p>他的交通工具就是一辆独轮车，为了省力，选择了36英寸（91厘米）的轮胎。 他的所有装备也放在独轮车上（下图），一路上一共换过5次轮胎，平均每个轮胎可以使用8000公里。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020021112.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020021113.jpg\" alt=\"\" title=\"\"></p><p>6、 <strong>一句话消息</strong></p><blockquote>\n  <ul>\n<li><a href=\"https://www.bloombergquint.com/global-economics/middle-age-misery-peaks-at-age-of-47-2-economist-says\">英国一项研究</a>发现，中年人最不幸福的年龄是47.2岁，所以这个年龄可能就是中年危机的最高潮。<br><br></li>\n<li><a href=\"https://finance.technews.tw/2019/12/30/digital-camera-shipments/\">数码相机</a> 2019年的全球出货量只有1,500万台左右，比2018年减少20%，是2001年（1,475万台）以来的最低点。相比巅峰时期的2010年（1亿2,146万台），销量只剩下八分之一。</li>\n</ul>\n</blockquote><p><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010305.jpg\" alt=\"\" title=\"\"></p><blockquote>\n  <ul>\n<li><a href=\"https://www.thedrive.com/news/31162/volkswagen-axes-all-non-electric-racing-programs-worldwide\">德国大众汽车公司</a>宣布，不再参与电动汽车以外的赛车活动。汽车公司参与赛车，主要是为了推销汽车，大众公司将逐步停止内燃机汽车的生产，也就不需要参与汽油车的赛车了。</li>\n</ul>\n</blockquote><p><img src=\"https://cdn.beekka.com/blogimg/asset/201911/bg2019112304.jpg\" alt=\"\" title=\"\"></p><blockquote>\n  <ul>\n<li><a href=\"http://www.k2.t.u-tokyo.ac.jp/vision/DPM/\">日本科学家</a>2016年发明了第一代动态投影机，在投射表面涂一层红外线涂料，就可以使得弯曲表面也获得清晰不变形的投影效果（下图）。目前<a href=\"http://www.k2.t.u-tokyo.ac.jp/vision/MIDAS/index-e.html\">第二代</a>问世了，已经不需要涂料，可以直接投影在弯曲表面。</li>\n</ul>\n</blockquote><p><img src=\"https://cdn.beekka.com/blogimg/asset/201911/bg2019112203.jpg\" alt=\"\" title=\"\"></p>",
+  "文章": [
+    {
+      "title": "Shopify 采用 React Native",
+      "href": "https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify",
+      "content": "1、<a href=\"https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify\">Shopify 采用 React Native</a>（英文）Shopify 决定放弃原生应用，改用 React Native 开发他们的手机 App，这篇文章详细解释了为什么。主要原因有三个，一是节省开发成本、缩短开发周期；二是他们在 Web 上已经采用 React，对这项技术比较熟悉； 三是他们的 App 不是那么复杂。"
+    },
+    {
+      "title": "Internet Explorer 曾有过的创新",
+      "href": "https://schepp.dev/posts/today-the-trident-era-ends/",
+      "content": "2、<a href=\"https://schepp.dev/posts/today-the-trident-era-ends/\">Internet Explorer 曾有过的创新</a>（英文）微软已经放弃了自己的 Trident 浏览器引擎，改用谷歌的 Blink 引擎。本文回顾了历史上 Internet Explorer 浏览器的众多创新，数量非常多。"
+    },
+    {
+      "title": "静态网站为什么需要 HTTPS",
+      "href": "https://www.troyhunt.com/heres-why-your-static-website-needs-https/",
+      "content": "3、<a href=\"https://www.troyhunt.com/heres-why-your-static-website-needs-https/\">静态网站为什么需要 HTTPS</a>（英文）本文总结了对 HTTP 网页进行攻击的方法。"
+    },
+    {
+      "title": "我编程20年的指导原则",
+      "href": "https://medium.com/@alexewerlof/my-guiding-principles-after-20-years-of-programming-a087dc55596c",
+      "content": "4、<a href=\"https://medium.com/@alexewerlof/my-guiding-principles-after-20-years-of-programming-a087dc55596c\">我编程20年的指导原则</a>（英文）一个编程20年的资深程序员，总结自己编写软件的原则，其中一条是：安全性 &gt; 可用性 &gt; 可维护性 &gt; 代码简洁 &gt; 性能 。另一条是，除非已经完全理解了所要解决的问题，否则不要动手写代码。"
+    },
+    {
+      "title": "41种 SaaS 产品营销策略",
+      "href": "https://apollodigital.io/blog/saas-marketing",
+      "content": "5、<a href=\"https://apollodigital.io/blog/saas-marketing\">41种 SaaS 产品营销策略</a>（英文）提供 SaaS 服务的公司越来越多，如何才能有效地推广自己的服务？这篇长文总结了41种 SaaS 营销方法。"
+    },
+    {
+      "title": "松本行弘谈 Ruby 语言的设计",
+      "href": "https://evrone.com/yukihiro-matsumoto-interview",
+      "content": "6、<a href=\"https://evrone.com/yukihiro-matsumoto-interview\">松本行弘谈 Ruby 语言的设计</a>（英文）<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011907.jpg\" alt=\"\" title=\"\">Ruby 语言创始人松本行弘的访谈，介绍他对设计 Ruby 语言的想法，内容包括静态类型和动态类型的处理、未来 Ruby 的发展方向。"
+    },
+    {
+      "title": "软件认证浪费时间和金钱",
+      "href": "http://tomaytotomato.com/certs-waste-of-time/",
+      "content": "7、<a href=\"http://tomaytotomato.com/certs-waste-of-time/\">软件认证浪费时间和金钱</a>（英文）作者提出一系列理由，认为各种软件资格证书并无意义，不值得为了它们花费时间和金钱。"
+    },
+    {
+      "title": "TypeScript 的问题",
+      "href": "https://blog.logrocket.com/is-typescript-worth-it/",
+      "content": "8、<a href=\"https://blog.logrocket.com/is-typescript-worth-it/\">TypeScript 的问题</a>（英文）作者记录了他使用 TypeScript 过程中，觉得不够满意的地方。有些是可以解决的，有些属于语言的核心设计，很难解决。"
+    },
+    {
+      "title": "我使用 Google Cloud Run 的经历",
+      "href": "https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless",
+      "content": "9、<a href=\"https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless\">我使用 Google Cloud Run 的经历</a>（英文）谷歌云的 Cloud Run 服务可以\"按需启动\"的方式运行 Docker 容器，作者使用这个服务部署自己的 Serverless 应用，每月的费用不足一美元。"
+    },
+    {
+      "title": "OT 还是 CRDT？",
+      "href": "https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/",
+      "content": "10、<a href=\"https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/\">OT 还是 CRDT？</a>（英文）网页编辑器 TinyMCE 项目打算增加多人实时协作功能。目前，编辑器同步有两种主要算法：OT 和 CRDT。本文比较这两种算法各自的特点，并附有参考链接。"
+    }
+  ],
+  "工具": [
+    {
+      "title": "netgraph",
+      "href": "https://github.com/ga0/netgraph",
+      "content": "1、<a href=\"https://github.com/ga0/netgraph\">netgraph</a>一个 Go 语言写的 HTTP 抓包分析器，带有 Web 界面。（@<a href=\"https://github.com/ruanyf/weekly/issues/1095\">ga0</a> 投稿）"
+    },
+    {
+      "title": "qier-progress",
+      "href": "https://github.com/vortesnail/qier-progress",
+      "content": "2、<a href=\"https://github.com/vortesnail/qier-progress\">qier-progress</a>一个网页顶部进度条的 JS 库。（@<a href=\"https://github.com/ruanyf/weekly/issues/1093\">vortesnail</a> 投稿）"
+    },
+    {
+      "title": "pyprotect",
+      "href": "https://github.com/ga0/pyprotect",
+      "content": "3、<a href=\"https://github.com/ga0/pyprotect\">pyprotect</a>一个 Python 代码的加密器，可以防止别人看脚本源码。（@<a href=\"https://github.com/ruanyf/weekly/issues/1094\">ga0</a> 投稿）"
+    },
+    {
+      "title": "简易数学函数作图工具",
+      "href": "https://helloacm.com/tools/math-plot-graph/",
+      "content": "4、<a href=\"https://helloacm.com/tools/math-plot-graph/\">简易数学函数作图工具</a><img src=\"https://cdn.beekka.com/blogimg/asset/202002/bg2020022301.jpg\" alt=\"\" title=\"\">一个在线生成数学函数图形的网页小工具。（@<a href=\"https://github.com/ruanyf/weekly/issues/1102\">DoctorLai</a> 投稿）"
+    },
+    {
+      "title": "Jane",
+      "href": "https://jane.pandolia.net/",
+      "content": "5、<a href=\"https://jane.pandolia.net/\">Jane</a>一个超级轻量的静态博客系统，使用 Kotlin 语言。（@<a href=\"https://github.com/ruanyf/weekly/issues/1108\">pandolia</a> 投稿）"
+    },
+    {
+      "title": "akshare",
+      "href": "https://github.com/jindaxiang/akshare",
+      "content": "6、<a href=\"https://github.com/jindaxiang/akshare\">akshare</a>一个基于 Python 的开源金融数据接口库，目的是实现股票、期货等金融产品从数据采集、数据清洗到数据下载的工具，满足金融数据科学家、数据科学爱好者在数据获取方面的需求。（@<a href=\"https://github.com/ruanyf/weekly/issues/1109\">jindaxiang</a> 投稿）"
+    },
+    {
+      "title": "Sitdown",
+      "href": "https://github.com/mdnice/sitdown",
+      "content": "7、<a href=\"https://github.com/mdnice/sitdown\">Sitdown</a>一个将 HTML 源码转换为 Markdown 的 JS 库，可以定制规则。（@<a href=\"https://github.com/ruanyf/weekly/issues/1111\">LinFeng1997</a> 投稿）"
+    },
+    {
+      "title": "GoatCounter",
+      "href": "https://www.goatcounter.com/",
+      "content": "8、<a href=\"https://www.goatcounter.com/\">GoatCounter</a><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011501.jpg\" alt=\"\" title=\"\">一个开源的访客统计软件。"
+    },
+    {
+      "title": "Language Learning with Netflix",
+      "href": "https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en",
+      "content": "9、<a href=\"https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en\">Language Learning with Netflix</a><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011307.jpg\" alt=\"\" title=\"\">Chrome 浏览器插件，可以在 Netflix 的视频页面上同时显示原文和英语字幕，适合学习外语，需要用户有 Netflix 收看资格。"
+    },
+    {
+      "title": "Clipboard History Pro",
+      "href": "https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk",
+      "content": "10、<a href=\"https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk\">Clipboard History Pro</a><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011301.jpg\" alt=\"\" title=\"\">Chrome 浏览器插件，用来管理系统的剪贴板，可以查看剪贴板的历史记录。"
+    }
+  ],
+  "资源": [
+    {
+      "title": "货币汇率 API",
+      "href": "https://currencyscoop.com/",
+      "content": "1、<a href=\"https://currencyscoop.com/\">货币汇率 API</a>该网站提供免费货币汇率的 JSON API。"
+    },
+    {
+      "title": "GameBoy 模拟器教程：使用 JavaScript 语言",
+      "href": "http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU",
+      "content": "2、<a href=\"http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU\">GameBoy 模拟器教程：使用 JavaScript 语言</a>这组系列文章讲解，如何用 JavaScript 语言模拟 GameBoy 的硬件，可以用来了解硬件知识。"
+    },
+    {
+      "title": "初学者的安卓学习资源",
+      "href": "https://news.ycombinator.com/item?id=22030169",
+      "content": "3、<a href=\"https://news.ycombinator.com/item?id=22030169\">初学者的安卓学习资源</a>这是 HN 的一个帖子，讨论初学者应该参考哪些安卓学习资源。"
+    },
+    {
+      "title": "黑客的贝叶斯方法：以 Python 为例",
+      "href": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+      "content": "4、<a href=\"https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers\">黑客的贝叶斯方法：以 Python 为例</a><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030502.jpg\" alt=\"\" title=\"\">免费的英文电子书，讲解贝叶斯概率在 Python 语言中的应用。"
+    },
+    {
+      "title": "Go 101",
+      "href": "https://github.com/go101/go101/releases",
+      "content": "5、<a href=\"https://github.com/go101/go101/releases\">Go 101</a><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030501.jpg\" alt=\"\" title=\"\">免费的英文电子书，介绍 Go 语言的基本语法。"
+    }
+  ],
+  "图片": [
+    {
+      "title": "微塑料污染",
+      "href": "https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B4TF2MQ/index.html",
+      "content": "1、<a href=\"https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B4TF2MQ/index.html\">微塑料污染</a>人类大量使用塑料制品，然后随意丢弃，导致废塑料以塑料纤维的形式，进入了饮用水。世界自然基金会最近的一项研究得出结论，人们每周可能摄入5克塑料纤维，相当于一张塑料信用卡的量，可以填满一个汤匙。这些塑料纤维进入人体的消化系统，大部分会被排解掉。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010105.jpg\" alt=\"\" title=\"\">每个月食用21克塑料，相当于小半碗饭。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010106.jpg\" alt=\"\" title=\"\">半年食入125克塑料，相当于一大碗。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010107.jpg\" alt=\"\" title=\"\">每年食入250克塑料，相当于一盆菜。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010108.jpg\" alt=\"\" title=\"\">每10年食入2.5公斤塑料，相当于一个救生圈。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010109.jpg\" alt=\"\" title=\"\">一生中食入20公斤塑料，相当于两个垃圾桶。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010110.jpg\" alt=\"\" title=\"\">"
+    },
+    {
+      "title": "香槟的压力",
+      "href": "https://www.atlasobscura.com/articles/history-of-champagne",
+      "content": "2、<a href=\"https://www.atlasobscura.com/articles/history-of-champagne\">香槟的压力</a>历史上，英国采用二次发酵法制作葡萄酒，在已发酵的葡萄酒中加入糖和糖蜜以使酵母再次发酵，然后将其密封在瓶中以产生冒泡的混合物。这种方法的问题在于它产生了难以置信的压力。在酒瓶中，内部压力大约是大气压的六倍，是汽车轮胎的三倍。这相当于每平方厘米的玻璃上承受超过5公斤的重量，只有特别坚固的瓶子才能承受这种压力，每年大约有4%～40%的葡萄酒会因为酒瓶爆炸而损耗。因此，香槟酒工人只好戴着铁的保护面罩，来制造葡萄酒，防止受到爆瓶的伤害。<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020010607.jpg\" alt=\"\" title=\"\">"
+    },
+    {
+      "title": "澳大利亚一家停车场的创意",
+      "href": "http://architypereview.com/project/eureka-tower-car-park-signage/",
+      "content": "3、<a href=\"http://architypereview.com/project/eureka-tower-car-park-signage/\">澳大利亚一家停车场的创意</a>下面的标记都是真实的，利用视觉错位涂绘。（@<a href=\"https://github.com/ruanyf/weekly/issues/1058\">StevenLikeWatermelon</a> 投稿）<img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011704.jpg\" alt=\"\" title=\"\"><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030405.jpg\" alt=\"\" title=\"\"><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030406.jpg\" alt=\"\" title=\"\">"
+    }
+  ],
+  "文摘": "<p>1、<a href=\"https://ubiquity.acm.org/article.cfm?id=1513451\">过早优化的谬误</a></p><p>Tony Hoare 曾经说过：\"过早的优化是万恶之源\"。经过 Donald Knuth 大师的推荐，这句话已成为软件工程师的名言。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202003/bg2020030404.jpg\" alt=\"\" title=\"\"></p><p>不幸的是，它被误解扭曲了。许多软件工程师将这一准则理解成\"你永远不应该优化代码！\"，认为没有必要进行优化。</p><p>Tony Hoare 和 Donald Knuth 的真正意思是，代码微优化（例如，一条特定语句消耗多少 CPU 周期）之前，开发者应该担心其他问题。而且，原话并不是说：\"在开发的早期阶段，关注程序的性能是有害的。\" 他只是反对过早的优化。</p><p>以下几点理由，可以解释为什么不能忽视软件性能。程序员正确的做法应该是，在软件开发的早期阶段，就关注性能问题。</p><p>（1）性能问题不容易在软件开发的最后阶段解决。20％的代码占用了80％执行时间，它们可能散布在整个源代码中，不容易一次性修改解决。</p><p>（2）许多工程师相信，到软件发布时，CPU 的性能将会提高，以弥补部分代码的性能低下。尽管在1990年代确实如此，但在最近十年 CPU 性能非常有限。</p><p>（3）软件工程师认为，他们的时间比 CPU 时间更有价值。因此，浪费 CPU 周期以减少开发时间是对的。但是，他们忘记了，用户的时间比他们的时间更有价值。</p><p>（4）优化可能会导致产品延迟进入市场，并降低利润，这是正确的。但这种想法忽略了性能不佳的产品可能很难销售，尤其是在市场竞争激烈的情况下。</p><p>（5）有些程序员认为，几乎没有必要确保在软件的设计阶段，就使用最佳算法，先实现功能再说，因为以后总是可以替换更好的算法。所以，无需担心软件在开发阶段的性能，以后可以通过更好的算法对其进行提高。不幸的是，更好的算法在后期不一定可以实现，而且代码往往因为牵扯太多，无法轻易替换其中某个部分。</p><p>2、<a href=\"https://aryankashyap.com/why-are-some-things-darker-when-wet\">为什么物体潮湿时会变暗？</a></p><p>你是否想过，为什么向地上倒了一摊水，土地就变暗了？</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011008.jpg\" alt=\"\" title=\"\"></p><p>首先，我们要知道，物体的亮或暗，取决于反射的光的数量。反射的光线多，就比较亮；反射的光线少，就比较暗。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011009.jpg\" alt=\"\" title=\"\"></p><p>当我们向土地倒水的时候，湿的那块地的表面就有一层水。在此之前，光可以100%击中那块地，现在必须穿过那层水才能被地面反射。有一些光会被水面反射，还有一些光会在水中被吸收，所以地面接受的光量就比以前少。</p><p>另外，光进入水中后，一部分光会出现漫反射，反射到人眼的光量进一步减少。</p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011010.jpg\" alt=\"\" title=\"\"></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/202001/bg2020011011.jpg\" alt=\"\" title=\"\"></p><p>以上两个原因，使得一个物体变湿以后，人眼接收到的光量要小得多。这就是为什么物体潮湿时看起来更暗的原因。</p>",
+  "言论与数字": "<p>1、</p><p>为了解决气候变暖，人类生活的所有方面需要彻底的改变。</p><p>我们需要少吃肉，通过体外细胞培养的方式人工生产蛋白质，每个家庭的家用电器减少到两台，完全淘汰干衣机，2030年全面过渡到电动汽车，2050年将全球人口限制在84亿以内，到2100年下降到69亿。</p><p>-- <a href=\"https://www.thenewatlantis.com/publications/after-climate-despair\">《气候问题已经绝望》</a></p><p>2、</p><p>互联网诞生之前，程序员没有 StackOverflow、Slack、Reddit、Youtube、网络教程。编程遇到问题的时候，手边必须有语法手册和系统手册，如果你没有这两本书，就只能去图书馆或书店找书。</p><p>-- <a href=\"https://twitter.com/rkunboxed/status/1207301873218154497\">推特用户</a></p><p>3、</p><p>每个内容托管平台都将消亡。Geocities、LiveJournal、what. cd 、Yahoo Groups 已经消亡。有一天，Medium、Twitter、甚至 GitHub Pages 也将消亡，只要它们不再增长或者找不到有效的商业模式。</p><p>-- <a href=\"https://jeffhuang.com/designed_to_last/\">《制作持久耐用的网页》</a></p><p>4、</p><p>我从小公司跳槽到大公司。我发现，大公司的很多工作都在学习他们庞大的自定义领域，而不是学习某种的公开技术。</p><p>-- <a href=\"https://news.ycombinator.com/item?id=21982577\">HN 读者</a></p><p>5、</p><p>Git 从2005年4月3日开始开发，4月6日完成开发，对外宣布，4月7日上线使用。</p><p>-- <a href=\"https://en.wikipedia.org/wiki/Git#History\">维基百科</a></p><p>6、</p><p>微软好于谷歌的一个地方，就是它没有广告业务。</p><p>-- <a href=\"https://news.ycombinator.com/item?id=21853885\">HN 读者</a></p>",
+  "回顾": "<p>去年的本周：<a href=\"https://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html\">《周刊第 46 期》</a></p><p><img src=\"https://cdn.beekka.com/blogimg/asset/201903/bg2019030801.jpg\" alt=\"\" title=\"\"></p>",
+  "订阅": "<p>这个周刊每周五发布，同步更新在<a href=\"https://www.ruanyifeng.com/blog\">阮一峰的网络日志</a>和<a href=\"http://weixin.sogou.com/weixin?query=%E9%98%AE%E4%B8%80%E5%B3%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97\">微信公众号</a>。</p><p>微信搜索\"阮一峰的网络日志\"或者扫描二维码，即可订阅。</p><p><img src=\"https://www.ruanyifeng.com/blogimg/asset/2018/bg2018042311.jpg\" alt=\"\" title=\"\"></p><p>（完）</p>"
+}

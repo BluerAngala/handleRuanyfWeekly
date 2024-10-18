@@ -1,0 +1,13 @@
+# node_modules 目录包含依赖包，不需要版本控制
+node_modules/
+
+# npm 和 yarn 生成的 lock 文件
+package-lock.json
+yarn.lock
+
+# 临时文件
+tmp/
+
+# 日志文件
+logs/
+

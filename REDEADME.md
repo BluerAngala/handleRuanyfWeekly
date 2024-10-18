@@ -13,10 +13,11 @@
 ![1729247376543](image/REDEADME/1729247376543.png)
 ![1729247275614](image/REDEADME/1729247275614.png)
 
-
 ## 补充
 
 一开始是想通过 markdown 去做解析和格式化，但是发现 markdown 解析起来很麻烦，还不如直接获取 html 然后进行解析。
+
+
 不过在找的过程中，发现了一个很好的项目，是 plantree 的 [ruanyf-weekly](https://github.com/plantree/ruanyf-weekly)，部署在 plantree 的网站上，可以在线阅读，美观大气，符合我的审美，顺便学习了一下 sh 的脚本获取文件处理文件。
 
 ## 致谢
